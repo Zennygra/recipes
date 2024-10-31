@@ -1,0 +1,1 @@
+This project is to hash out the basics of html structures. The skeleton of the website.
